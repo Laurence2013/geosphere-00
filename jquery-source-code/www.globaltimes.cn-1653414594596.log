@@ -1,0 +1,8 @@
+const article = $('.article_right').map((index, element) => {
+    const data = $(element).text();
+    return {data}
+}).get();
+
+console.log(article);
+VM3087:6 [{…}]
+undefined

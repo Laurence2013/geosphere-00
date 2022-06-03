@@ -1,0 +1,3 @@
+const article = $('.article > .article_top > .article_title').text();
+article;
+'‘Neo-Nazism’ poisons Ukraine, Europe under US, West’s connivance'
